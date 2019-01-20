@@ -27,7 +27,7 @@ public class App {
     }
     
     
-    public static List<Produto> criaListaProdutos(){
+    private static List<Produto> criaListaProdutos(){
         
         List<Produto> produtos = new ArrayList<Produto>();
 
